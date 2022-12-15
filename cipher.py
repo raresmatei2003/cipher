@@ -35,3 +35,4 @@ def main():
             print(s[i], end='')
 main()
 print('\n')
+#GPL-3.0-or-later
